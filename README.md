@@ -9,5 +9,4 @@ The site showcases Aditya’s interests in cybersecurity, blockchain, and automa
 
 The current version of the site is deployed on GitHub Pages:
 
-```arduino
-https://adityapatil343.github.io/Website/
+    https://adityapatil343.github.io/Website/
