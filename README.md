@@ -1,7 +1,7 @@
 # 0xAadiii Personal Website
 
-This repository contains the source code for **Aditya Patil’s** personal portfolio website.  
-The site showcases Aditya’s interests in cybersecurity, blockchain, and automation, highlights a selection of open-source projects, and provides contact links for easy collaboration.
+This repository contains the source code for a personal portfolio website.
+The site showcases interests in cybersecurity, blockchain, and automation, highlights a selection of open-source projects, and provides contact links for easy collaboration.
 
 ---
 
