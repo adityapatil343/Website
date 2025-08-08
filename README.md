@@ -34,6 +34,7 @@ Responsive Design – Layout adapts gracefully from large screens down to mobile
         └── README.md        # This file
 
 # 🚀 Deployment
+
 The site is designed to be hosted statically, and GitHub Pages is the simplest way to publish it:
 
 Create a new public repository and push the site files (index.html, style.css, script.js, hero-bg.png).
@@ -48,6 +49,8 @@ If you create a repository named exactly <username>.github.io, your site will be
 e.g.:
         
         https://adityapatil343.github.io
+
+<br>
 
 # 🤝 Contributing
 Pull requests are welcome! If you find a bug or have suggestions for new features, please open an issue first to discuss what you would like to change.
