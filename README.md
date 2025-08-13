@@ -20,6 +20,7 @@ https://adityapatil343.github.io/Website/
 
 ## Repository Structure
 
+```
 Website/
 ├── index.html              # Main HTML file with split hero layout, name, tagline, and interactive buttons
 ├── style.css               # Styles for black-and-white theme, layout, custom cursor, and terminal overlay
@@ -27,7 +28,7 @@ Website/
 ├── assets/
 │   └── hero-placeholder.png # Placeholder hero image (replace with your personal photo)
 └── README.md               # Project documentation
-
+```
 
 ## Deployment
 
