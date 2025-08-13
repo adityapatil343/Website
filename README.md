@@ -20,13 +20,13 @@ https://adityapatil343.github.io/Website/
 
 ## Repository Structure
 
-```
-├── index.html       # Main HTML file for the site
-├── style.css        # Site styling
-├── script.js        # JavaScript for typed text and scroll animations
-├── hero-bg.png      # Hero section background image
-└── README.md        # This file
-```
+Website/
+├── index.html       
+├── style.css         
+├── script.js          
+├── assets/
+│   └── hero-placeholder.png
+└── README.md          # Project documentation
 
 ## Deployment
 
