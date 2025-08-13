@@ -21,12 +21,12 @@ https://adityapatil343.github.io/Website/
 ## Repository Structure
 
 Website/
-├── index.html       
-├── style.css         
-├── script.js          
+├── index.html
+├── style.css
+├── script.js
 ├── assets/
 │   └── hero-placeholder.png
-└── README.md          # Project documentation
+└── README.md
 
 ## Deployment
 
