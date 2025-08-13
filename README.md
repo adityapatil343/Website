@@ -28,7 +28,6 @@ Website/
 │   └── hero-placeholder.png  # Placeholder hero image (replace with your personal photo)
 └── README.md          # Project documentation
 
-
 ## Deployment
 
 The site is designed to be hosted statically, and GitHub Pages is the simplest way to publish it:
