@@ -1,8 +1,8 @@
-# Aditya Patil Personal Portfolio
+# Aditya Patil Personal Portfolio 🫶
 
 This repository contains the source code for my personal portfolio website. It highlights my journey as a 20‑year‑old cyber security and cloud student, product builder, crypto trader and gamer. The site showcases my areas of expertise, personal projects and ways to connect with me.
 
-## Live Demo
+## 🔛 Live Demo
 
 The current version of the site is deployed on GitHub Pages:
 
@@ -18,7 +18,7 @@ https://adityapatil343.github.io/Website/
 - **Minimal Navigation** – Social links (Telegram, email and Instagram) float beside the hero for quick contact.
 - **Responsive Design** – The layout collapses gracefully on smaller screens, stacking the image and content sections and repositioning the social icons.
 
-## Repository Structure
+## 🧱 Repository Structure
 
 ```
 Website/
@@ -30,7 +30,7 @@ Website/
 └── README.md               # Project documentation
 ```
 
-## Deployment
+## 🛠️ Deployment
 
 The site is designed to be hosted statically, and GitHub Pages is the simplest way to publish it:
 
@@ -44,6 +44,6 @@ https://<username>.github.io/<repo-name>/
 
 If you create a repository named exactly `<username>.github.io`, your site will be served from the root domain, e.g. `https://adityapatil343.github.io`.
 
-## Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! If you find a bug or have suggestions for new features, please open an issue first to discuss what you would like to change.
