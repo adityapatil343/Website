@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal portfolio website. It highlights my journey as a 20‑year‑old cyber security and cloud student, product builder, crypto trader and gamer. The site showcases my areas of expertise, personal projects and ways to connect with me.
 
-## 🔛 Live Demo
+## 🔛 Check it Out
 
 The current version of the site is deployed on GitHub Pages:
 
